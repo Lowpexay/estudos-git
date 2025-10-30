@@ -1,0 +1,2 @@
+class Credenciais:
+    pass
